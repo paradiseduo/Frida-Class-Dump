@@ -1,0 +1,6 @@
+framework module Frida {
+  umbrella header "Frida.h"
+
+  export *
+  module * { export * }
+}
